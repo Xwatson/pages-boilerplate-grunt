@@ -1,0 +1,13 @@
+{
+  "name": "pages-boilerplate-grunt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Xwatson/pages-boilerplate-grunt.git",
+  "author": "xuwusheng <xuwusheng@babytree-inc.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
